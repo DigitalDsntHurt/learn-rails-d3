@@ -36,4 +36,4 @@ var barChart = svg.selectAll('rect')
 		});
 
 
-d3.select('.helloworld').append('hr').style('margin',"44 0 44 0")	
+d3.select('.helloworld').append('hr').style('margin',"44 0 44 0")
